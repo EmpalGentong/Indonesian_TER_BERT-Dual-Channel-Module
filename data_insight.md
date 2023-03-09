@@ -4,8 +4,6 @@
 - hastag removal
 - unused information(tag, emoticon, simbol non emotions)
 
-### proses yang akan dicoba selanjutnya:
-- Tokenization* 
-- Stopword Removal*
-- Phrase Detection*
-- Stemming*
+### preproses yang akan dicoba selanjutnya:
+- Stopword Removal* (i dont know what if this will improve the model?)
+- Stemming* (i dont know what if this will improve the model?)
